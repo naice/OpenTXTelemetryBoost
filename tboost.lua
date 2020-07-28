@@ -1,4 +1,4 @@
-local VERSION = "1.7.2"
+local VERSION = "0.0.1"
 local FILE_PATH = "/SCRIPTS/TELEMETRY/TeleBoost/"
 local ENV = "tx"
 
