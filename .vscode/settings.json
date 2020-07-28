@@ -1,0 +1,9 @@
+{
+    "Lua.diagnostics.globals": [
+        "getValue",
+        "getRSSI",
+        "loadScript",
+        "setTelemetryValue",
+        "UNIT_VOLTS"
+    ]
+}
